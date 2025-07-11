@@ -45,7 +45,7 @@
     "axios": "^0.16.2",
     "babel-cli": "^6.26.0",
     "compression": "1.7.0",
-    "cross-env": "5.0.5",
+    "cross-env": "5.2.0",
     "express": "4.15.4",
     "jed": "^1.1.1",
     "next": "3.2.2",
